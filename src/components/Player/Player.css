@@ -1,0 +1,13 @@
+.player-card {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
+.player-img {
+  max-width: 200px;
+  height: 150px;
+}
+
+.custom-card {
+  border: 1px solid red;
+}
